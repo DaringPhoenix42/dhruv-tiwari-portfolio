@@ -5,8 +5,8 @@ window.portfolioData = {
   email: "work.dhruvdtiwari@gmail.com",
   phone: "+91 8591105969",
   linkedin: "https://linkedin.com/in/dhruv-tiwari-data",
-  github: "https://github.com/DaringPhoenix",
-  githubUsername: "DaringPhoenix",
+  github: "https://github.com/DaringPhoenix42",
+  githubUsername: "DaringPhoenix42",
   education: [
     {
       school: "Ramrao Adik Institute of Technology, D. Y. Patil Deemed to be University",
